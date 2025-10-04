@@ -1,3 +1,9 @@
+        "      ██╗ ██████╗ ███████╗███████╗████████╗██████╗  █████╗ ",
+        "      ██║██╔═══██╗██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗",
+        "      ██║██║   ██║███████╗█████╗     ██║   ██████╔╝███████║",
+        " ██   ██║██║   ██║╚════██║██╔══╝     ██║   ██╔══██╗██╔══██║",
+        " ╚█████╔╝╚██████╔╝███████║███████╗   ██║   ██║  ██║██║  ██║",
+        "  ╚════╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝"
 # Calculadora de Distribución Normal (Manual + IA)
 
 Herramienta en Python para calcular probabilidades de una Normal(μ, σ), generar gráficos PDF/CDF y usar IA para interpretar problemas en lenguaje natural, con un chat de seguimiento que aclara dudas y puede generar nuevas gráficas automáticamente.
